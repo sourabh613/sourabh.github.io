@@ -173,7 +173,7 @@
 
 .h1-testimonial-active.dot-style .slick-active button{color:#5AAC4E}
 
-.video-area {height: 545px;justify-content: center;background-image: url(../img/video-bg.png);background-size: cover;background-repeat: no-repeat;background-position: center center;border-radius: 20px;}
+.video-area {height: 545px;justify-content: center;background-image: url('../img/video-bg.jpg');background-size: cover;background-repeat: no-repeat;background-position: center center;border-radius: 20px;}
 @media only screen and (min-width:992px) and (max-width: 1199px){.video-area{height: 400px;}}
 @media only screen and (min-width:768px) and (max-width: 991px){.video-area{height: 400px;}}
 @media only screen and (min-width:576px) and (max-width: 767px){.video-area{height: 400px;}}
